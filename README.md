@@ -1,16 +1,14 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+
+>>>>>>> origin/main
 hello ae
+đạt 123
 
-vcl
+đạt đẹp trai số 1
 
-dday nef vc
-đay là anh dat
-ok
-ok2
-sdgnvjs sv 425 
-
-hes oaisfn
 
 
 
